@@ -19,7 +19,7 @@ PROBLEM 1: THE NIM GAME:
 - Take in the users' input as the choice.
 - The choice is then used to modify the number of marbles left(after human plays.)
 
-        IN THE COMPUTERCLASS;
+        IN THE COMPUTER CLASS;
 - Import the random method.(Use it to determine randomly whether the computer
         plays smart or stupid) - this is later overridden when we take in the 
         level.)
