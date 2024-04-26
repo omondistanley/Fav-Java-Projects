@@ -16,6 +16,7 @@ public class Game{
     
     public Game(int difficulty){
         // your code here
+        //Instance of the Human and Computer classes(computer class takes the difficulty parameter.) 
         humanPlayer = new Human();
         computerPlayer = new Computer(difficulty);
         this.level = difficulty;
