@@ -1,2 +1,3 @@
-# ClassProjects
-Projects I loved most from the class assignments
+# Projects
+Projects I loved most learning java
+
